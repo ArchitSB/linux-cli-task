@@ -1,0 +1,5 @@
+nm-openvpn:x:121:122:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/usr/sbin/nologin
+archit:x:1000:1000:Archit:/home/archit:/bin/bash
+mysql:x:122:124:MySQL Server,,,:/nonexistent:/bin/false
+_flatpak:x:123:125:Flatpak system-wide installation helper,,,:/nonexistent:/usr/sbin/nologin
+nvidia-persistenced:x:124:126:NVIDIA Persistence Daemon,,,:/nonexistent:/usr/sbin/nologin
