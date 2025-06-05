@@ -37,4 +37,4 @@ echo $MY_VAR > env_var_output.txt
 mkdir screenshots
 
 
-![All Tasks Screenshot](../linux-cli-task/screenshots/all_tasks.png)
+![All Tasks Screenshot](screenshots/tasks.png)
